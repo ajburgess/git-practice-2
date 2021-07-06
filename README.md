@@ -1,2 +1,2 @@
 # git-practice-2
-This is the fully-fixed version!
+This is original version (with bug).
